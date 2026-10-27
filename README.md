@@ -8,7 +8,7 @@ The characters and their stats are stored in a json file stored in AWS S3 - http
 
 ## Setup
 In order to run the project, you will need to install the following:
-- [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+- [Ruby](https://www.ruby-lang.org/en/documentation/installation/) 3.4 (see `.ruby-version`)
 - [Bundler](https://bundler.io/)
 
 Once you have downloaded the repo, you can use the following commands:
