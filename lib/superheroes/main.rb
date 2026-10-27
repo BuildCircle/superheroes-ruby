@@ -1,4 +1,4 @@
-require_relative 'superheroes_ruby/get_characters'
+require_relative 'get_characters'
 
 def battle(hero_name, villain_name)
   characters = get_characters

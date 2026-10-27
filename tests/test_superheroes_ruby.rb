@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative 'superheroes_ruby/main'
+require_relative '../lib/superheroes/main'
 
 class TestBattle < Minitest::Test
   def setup
